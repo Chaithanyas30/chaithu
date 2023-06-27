@@ -1,0 +1,9 @@
+CREATE TABLE Employee  
+(  
+EmployeeID int,  
+FirstName varchar(300),  
+LastName varchar(300),  
+Email varchar(300),  
+AddressLine varchar(300),  
+City varchar(300)  
+);  
